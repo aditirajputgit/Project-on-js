@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/dynamic-webapps/time-converter-bg.png");
+    height: 100%;
+    background-size: cover;
+}
+
+.main-heading {
+    color: white;
+    font-size: 45px;
+    padding-top: 20px;
+    padding-left: 25px;
+    padding-right: 15px;
+    font-weight: 600;
+}
+
+.para1 {
+    color: white;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 25px;
+    padding-right: 15px;
+    font-weight: 600;
+}
+
+.input {
+    width: 80%;
+    padding-right: 15px;
+    border-radius: 20px;
+    margin-left: 25px;
+}
+
+.button {
+    color: #ffffff;
+    background-color: #007bff;
+    font-size: 12px;
+    font-family: 'Roboto';
+    border: none;
+    border-radius: 4px;
+    padding-left: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 16px;
+    outline: none;
+    cursor: pointer;
+}
+.div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btns{
+    color: #ffffff;
+    width: 100px;
+    font-weight: bold;
+    background-color: transparent;
+    font-size: 22px;
+    font-family: 'Roboto';
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 16px 8px 8px 16px;
+    outline: none;
+    cursor: pointer;
+}
