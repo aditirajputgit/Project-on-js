@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.container1 {
+    height: 100vh;
+    padding: 2rem;
+  }
+  
+  .container2 {
+    background-image: linear-gradient(#ff6e7f, #bfe9ff);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    margin: 1.5rem;
+  }
+  
